@@ -1,0 +1,891 @@
+spawn(function()
+    while wait() do
+        for i,v in pairs(game.Players.LocalPlayer:GetChildren()) do
+            if v.Name == "DataLoaded" or v.Name == "DataPreloaded" then
+                v:Destroy()
+            end
+        end
+    end
+end)
+
+spawn(function() 
+    repeat
+        task.wait()
+    until game:IsLoaded()
+    repeat
+        task.wait()
+    until game.Players
+    repeat
+        task.wait()
+    until game.Players.LocalPlayer and game.Players.LocalPlayer.Team ~= nil 
+    wait(1.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.14)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>0362374399<Color=/>"):Display()
+    wait(.24)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.29)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂 <Color=/>"):Display()
+    wait(.36)
+end)
+
+spawn(function()
+    while wait() do
+        for i,v in pairs(game.Players.LocalPlayer:GetChildren()) do
+            if v.Name == "DataLoaded" or v.Name == "DataPreloaded" then
+                v:Destroy()
+            end
+        end
+    end
+end)
+
+spawn(function() 
+    repeat
+        task.wait()
+    until game:IsLoaded()
+    repeat
+        task.wait()
+    until game.Players
+    repeat
+        task.wait()
+    until game.Players.LocalPlayer and game.Players.LocalPlayer.Team ~= nil 
+    wait(1.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.14)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>0362374399<Color=/>"):Display()
+    wait(.24)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.29)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂 <Color=/>"):Display()
+    wait(.36)
+end)
+
+spawn(function()
+    while wait() do
+        for i,v in pairs(game.Players.LocalPlayer:GetChildren()) do
+            if v.Name == "DataLoaded" or v.Name == "DataPreloaded" then
+                v:Destroy()
+            end
+        end
+    end
+end)
+
+spawn(function() 
+    repeat
+        task.wait()
+    until game:IsLoaded()
+    repeat
+        task.wait()
+    until game.Players
+    repeat
+        task.wait()
+    until game.Players.LocalPlayer and game.Players.LocalPlayer.Team ~= nil 
+    wait(1.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.14)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>0362374399<Color=/>"):Display()
+    wait(.24)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.29)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂 <Color=/>"):Display()
+    wait(.36)
+end)
+
+spawn(function()
+    while wait() do
+        for i,v in pairs(game.Players.LocalPlayer:GetChildren()) do
+            if v.Name == "DataLoaded" or v.Name == "DataPreloaded" then
+                v:Destroy()
+            end
+        end
+    end
+end)
+
+spawn(function() 
+    repeat
+        task.wait()
+    until game:IsLoaded()
+    repeat
+        task.wait()
+    until game.Players
+    repeat
+        task.wait()
+    until game.Players.LocalPlayer and game.Players.LocalPlayer.Team ~= nil 
+    wait(1.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.14)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>0362374399<Color=/>"):Display()
+    wait(.24)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.29)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂 <Color=/>"):Display()
+    wait(.36)
+end)
+
+spawn(function()
+    while wait() do
+        for i,v in pairs(game.Players.LocalPlayer:GetChildren()) do
+            if v.Name == "DataLoaded" or v.Name == "DataPreloaded" then
+                v:Destroy()
+            end
+        end
+    end
+end)
+
+spawn(function() 
+    repeat
+        task.wait()
+    until game:IsLoaded()
+    repeat
+        task.wait()
+    until game.Players
+    repeat
+        task.wait()
+    until game.Players.LocalPlayer and game.Players.LocalPlayer.Team ~= nil 
+    wait(1.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.14)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>0362374399<Color=/>"):Display()
+    wait(.24)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.29)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂 <Color=/>"):Display()
+    wait(.36)
+end)
+
+spawn(function()
+    while wait() do
+        for i,v in pairs(game.Players.LocalPlayer:GetChildren()) do
+            if v.Name == "DataLoaded" or v.Name == "DataPreloaded" then
+                v:Destroy()
+            end
+        end
+    end
+end)
+
+spawn(function() 
+    repeat
+        task.wait()
+    until game:IsLoaded()
+    repeat
+        task.wait()
+    until game.Players
+    repeat
+        task.wait()
+    until game.Players.LocalPlayer and game.Players.LocalPlayer.Team ~= nil 
+    wait(1.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.14)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>0362374399<Color=/>"):Display()
+    wait(.24)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.29)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂 <Color=/>"):Display()
+    wait(.36)
+end)
+
+spawn(function()
+    while wait() do
+        for i,v in pairs(game.Players.LocalPlayer:GetChildren()) do
+            if v.Name == "DataLoaded" or v.Name == "DataPreloaded" then
+                v:Destroy()
+            end
+        end
+    end
+end)
+
+spawn(function() 
+    repeat
+        task.wait()
+    until game:IsLoaded()
+    repeat
+        task.wait()
+    until game.Players
+    repeat
+        task.wait()
+    until game.Players.LocalPlayer and game.Players.LocalPlayer.Team ~= nil 
+    wait(1.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.14)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>0362374399<Color=/>"):Display()
+    wait(.24)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.29)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂 <Color=/>"):Display()
+    wait(.36)
+end)
+
+spawn(function()
+    while wait() do
+        for i,v in pairs(game.Players.LocalPlayer:GetChildren()) do
+            if v.Name == "DataLoaded" or v.Name == "DataPreloaded" then
+                v:Destroy()
+            end
+        end
+    end
+end)
+
+spawn(function() 
+    repeat
+        task.wait()
+    until game:IsLoaded()
+    repeat
+        task.wait()
+    until game.Players
+    repeat
+        task.wait()
+    until game.Players.LocalPlayer and game.Players.LocalPlayer.Team ~= nil 
+    wait(1.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.14)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>0362374399<Color=/>"):Display()
+    wait(.24)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.29)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂 <Color=/>"):Display()
+    wait(.36)
+end)
+
+spawn(function()
+    while wait() do
+        for i,v in pairs(game.Players.LocalPlayer:GetChildren()) do
+            if v.Name == "DataLoaded" or v.Name == "DataPreloaded" then
+                v:Destroy()
+            end
+        end
+    end
+end)
+
+spawn(function() 
+    repeat
+        task.wait()
+    until game:IsLoaded()
+    repeat
+        task.wait()
+    until game.Players
+    repeat
+        task.wait()
+    until game.Players.LocalPlayer and game.Players.LocalPlayer.Team ~= nil 
+    wait(1.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.14)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>0362374399<Color=/>"):Display()
+    wait(.24)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.29)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂 <Color=/>"):Display()
+    wait(.36)
+end)
+
+spawn(function()
+    while wait() do
+        for i,v in pairs(game.Players.LocalPlayer:GetChildren()) do
+            if v.Name == "DataLoaded" or v.Name == "DataPreloaded" then
+                v:Destroy()
+            end
+        end
+    end
+end)
+
+spawn(function() 
+    repeat
+        task.wait()
+    until game:IsLoaded()
+    repeat
+        task.wait()
+    until game.Players
+    repeat
+        task.wait()
+    until game.Players.LocalPlayer and game.Players.LocalPlayer.Team ~= nil 
+    wait(1.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.14)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>0362374399<Color=/>"):Display()
+    wait(.24)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.29)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂 <Color=/>"):Display()
+    wait(.36)
+end)
+
+spawn(function()
+    while wait() do
+        for i,v in pairs(game.Players.LocalPlayer:GetChildren()) do
+            if v.Name == "DataLoaded" or v.Name == "DataPreloaded" then
+                v:Destroy()
+            end
+        end
+    end
+end)
+
+spawn(function() 
+    repeat
+        task.wait()
+    until game:IsLoaded()
+    repeat
+        task.wait()
+    until game.Players
+    repeat
+        task.wait()
+    until game.Players.LocalPlayer and game.Players.LocalPlayer.Team ~= nil 
+    wait(1.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.14)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>0362374399<Color=/>"):Display()
+    wait(.24)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.29)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂 <Color=/>"):Display()
+    wait(.36)
+end)
+
+spawn(function()
+    while wait() do
+        for i,v in pairs(game.Players.LocalPlayer:GetChildren()) do
+            if v.Name == "DataLoaded" or v.Name == "DataPreloaded" then
+                v:Destroy()
+            end
+        end
+    end
+end)
+
+spawn(function() 
+    repeat
+        task.wait()
+    until game:IsLoaded()
+    repeat
+        task.wait()
+    until game.Players
+    repeat
+        task.wait()
+    until game.Players.LocalPlayer and game.Players.LocalPlayer.Team ~= nil 
+    wait(1.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.14)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>0362374399<Color=/>"):Display()
+    wait(.24)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.29)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂 <Color=/>"):Display()
+    wait(.36)
+end)
+
+spawn(function()
+    while wait() do
+        for i,v in pairs(game.Players.LocalPlayer:GetChildren()) do
+            if v.Name == "DataLoaded" or v.Name == "DataPreloaded" then
+                v:Destroy()
+            end
+        end
+    end
+end)
+
+spawn(function() 
+    repeat
+        task.wait()
+    until game:IsLoaded()
+    repeat
+        task.wait()
+    until game.Players
+    repeat
+        task.wait()
+    until game.Players.LocalPlayer and game.Players.LocalPlayer.Team ~= nil 
+    wait(1.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.14)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>0362374399<Color=/>"):Display()
+    wait(.24)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.29)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂 <Color=/>"):Display()
+    wait(.36)
+end)
+
+spawn(function()
+    while wait() do
+        for i,v in pairs(game.Players.LocalPlayer:GetChildren()) do
+            if v.Name == "DataLoaded" or v.Name == "DataPreloaded" then
+                v:Destroy()
+            end
+        end
+    end
+end)
+
+spawn(function() 
+    repeat
+        task.wait()
+    until game:IsLoaded()
+    repeat
+        task.wait()
+    until game.Players
+    repeat
+        task.wait()
+    until game.Players.LocalPlayer and game.Players.LocalPlayer.Team ~= nil 
+    wait(1.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.14)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>0362374399<Color=/>"):Display()
+    wait(.24)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.29)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂 <Color=/>"):Display()
+    wait(.36)
+end)
+
+spawn(function()
+    while wait() do
+        for i,v in pairs(game.Players.LocalPlayer:GetChildren()) do
+            if v.Name == "DataLoaded" or v.Name == "DataPreloaded" then
+                v:Destroy()
+            end
+        end
+    end
+end)
+
+spawn(function() 
+    repeat
+        task.wait()
+    until game:IsLoaded()
+    repeat
+        task.wait()
+    until game.Players
+    repeat
+        task.wait()
+    until game.Players.LocalPlayer and game.Players.LocalPlayer.Team ~= nil 
+    wait(1.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.14)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>0362374399<Color=/>"):Display()
+    wait(.24)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.29)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂 <Color=/>"):Display()
+    wait(.36)
+end)
+
+spawn(function()
+    while wait() do
+        for i,v in pairs(game.Players.LocalPlayer:GetChildren()) do
+            if v.Name == "DataLoaded" or v.Name == "DataPreloaded" then
+                v:Destroy()
+            end
+        end
+    end
+end)
+
+spawn(function() 
+    repeat
+        task.wait()
+    until game:IsLoaded()
+    repeat
+        task.wait()
+    until game.Players
+    repeat
+        task.wait()
+    until game.Players.LocalPlayer and game.Players.LocalPlayer.Team ~= nil 
+    wait(1.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.14)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>0362374399<Color=/>"):Display()
+    wait(.24)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.29)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂 <Color=/>"):Display()
+    wait(.36)
+end)
+
+spawn(function()
+    while wait() do
+        for i,v in pairs(game.Players.LocalPlayer:GetChildren()) do
+            if v.Name == "DataLoaded" or v.Name == "DataPreloaded" then
+                v:Destroy()
+            end
+        end
+    end
+end)
+
+spawn(function() 
+    repeat
+        task.wait()
+    until game:IsLoaded()
+    repeat
+        task.wait()
+    until game.Players
+    repeat
+        task.wait()
+    until game.Players.LocalPlayer and game.Players.LocalPlayer.Team ~= nil 
+    wait(1.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.14)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>0362374399<Color=/>"):Display()
+    wait(.24)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.29)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂 <Color=/>"):Display()
+    wait(.36)
+end)
+
+spawn(function()
+    while wait() do
+        for i,v in pairs(game.Players.LocalPlayer:GetChildren()) do
+            if v.Name == "DataLoaded" or v.Name == "DataPreloaded" then
+                v:Destroy()
+            end
+        end
+    end
+end)
+
+spawn(function() 
+    repeat
+        task.wait()
+    until game:IsLoaded()
+    repeat
+        task.wait()
+    until game.Players
+    repeat
+        task.wait()
+    until game.Players.LocalPlayer and game.Players.LocalPlayer.Team ~= nil 
+    wait(1.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.14)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>0362374399<Color=/>"):Display()
+    wait(.24)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.29)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂 <Color=/>"):Display()
+    wait(.36)
+end)
+
+spawn(function()
+    while wait() do
+        for i,v in pairs(game.Players.LocalPlayer:GetChildren()) do
+            if v.Name == "DataLoaded" or v.Name == "DataPreloaded" then
+                v:Destroy()
+            end
+        end
+    end
+end)
+
+spawn(function() 
+    repeat
+        task.wait()
+    until game:IsLoaded()
+    repeat
+        task.wait()
+    until game.Players
+    repeat
+        task.wait()
+    until game.Players.LocalPlayer and game.Players.LocalPlayer.Team ~= nil 
+    wait(1.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.14)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>0362374399<Color=/>"):Display()
+    wait(.24)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.29)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂 <Color=/>"):Display()
+    wait(.36)
+end)
+
+spawn(function()
+    while wait() do
+        for i,v in pairs(game.Players.LocalPlayer:GetChildren()) do
+            if v.Name == "DataLoaded" or v.Name == "DataPreloaded" then
+                v:Destroy()
+            end
+        end
+    end
+end)
+
+spawn(function() 
+    repeat
+        task.wait()
+    until game:IsLoaded()
+    repeat
+        task.wait()
+    until game.Players
+    repeat
+        task.wait()
+    until game.Players.LocalPlayer and game.Players.LocalPlayer.Team ~= nil 
+    wait(1.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.14)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>0362374399<Color=/>"):Display()
+    wait(.24)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.29)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂 <Color=/>"):Display()
+    wait(.36)
+end)
+
+spawn(function()
+    while wait() do
+        for i,v in pairs(game.Players.LocalPlayer:GetChildren()) do
+            if v.Name == "DataLoaded" or v.Name == "DataPreloaded" then
+                v:Destroy()
+            end
+        end
+    end
+end)
+
+spawn(function() 
+    repeat
+        task.wait()
+    until game:IsLoaded()
+    repeat
+        task.wait()
+    until game.Players
+    repeat
+        task.wait()
+    until game.Players.LocalPlayer and game.Players.LocalPlayer.Team ~= nil 
+    wait(1.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.14)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>0362374399<Color=/>"):Display()
+    wait(.24)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.29)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂 <Color=/>"):Display()
+    wait(.36)
+end)
+
+spawn(function()
+    while wait() do
+        for i,v in pairs(game.Players.LocalPlayer:GetChildren()) do
+            if v.Name == "DataLoaded" or v.Name == "DataPreloaded" then
+                v:Destroy()
+            end
+        end
+    end
+end)
+
+spawn(function() 
+    repeat
+        task.wait()
+    until game:IsLoaded()
+    repeat
+        task.wait()
+    until game.Players
+    repeat
+        task.wait()
+    until game.Players.LocalPlayer and game.Players.LocalPlayer.Team ~= nil 
+    wait(1.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.14)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>0362374399<Color=/>"):Display()
+    wait(.24)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.29)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂 <Color=/>"):Display()
+    wait(.36)
+end)
+
+spawn(function()
+    while wait() do
+        for i,v in pairs(game.Players.LocalPlayer:GetChildren()) do
+            if v.Name == "DataLoaded" or v.Name == "DataPreloaded" then
+                v:Destroy()
+            end
+        end
+    end
+end)
+
+spawn(function() 
+    repeat
+        task.wait()
+    until game:IsLoaded()
+    repeat
+        task.wait()
+    until game.Players
+    repeat
+        task.wait()
+    until game.Players.LocalPlayer and game.Players.LocalPlayer.Team ~= nil 
+    wait(1.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.14)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>0362374399<Color=/>"):Display()
+    wait(.24)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.29)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂 <Color=/>"):Display()
+    wait(.36)
+end)
+
+spawn(function()
+    while wait() do
+        for i,v in pairs(game.Players.LocalPlayer:GetChildren()) do
+            if v.Name == "DataLoaded" or v.Name == "DataPreloaded" then
+                v:Destroy()
+            end
+        end
+    end
+end)
+
+spawn(function() 
+    repeat
+        task.wait()
+    until game:IsLoaded()
+    repeat
+        task.wait()
+    until game.Players
+    repeat
+        task.wait()
+    until game.Players.LocalPlayer and game.Players.LocalPlayer.Team ~= nil 
+    wait(1.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.14)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>0362374399<Color=/>"):Display()
+    wait(.24)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.29)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂 <Color=/>"):Display()
+    wait(.36)
+end)
+
+spawn(function()
+    while wait() do
+        for i,v in pairs(game.Players.LocalPlayer:GetChildren()) do
+            if v.Name == "DataLoaded" or v.Name == "DataPreloaded" then
+                v:Destroy()
+            end
+        end
+    end
+end)
+
+spawn(function() 
+    repeat
+        task.wait()
+    until game:IsLoaded()
+    repeat
+        task.wait()
+    until game.Players
+    repeat
+        task.wait()
+    until game.Players.LocalPlayer and game.Players.LocalPlayer.Team ~= nil 
+    wait(1.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.14)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>0362374399<Color=/>"):Display()
+    wait(.24)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.29)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂 <Color=/>"):Display()
+    wait(.36)
+end)
+
+spawn(function()
+    while wait() do
+        for i,v in pairs(game.Players.LocalPlayer:GetChildren()) do
+            if v.Name == "DataLoaded" or v.Name == "DataPreloaded" then
+                v:Destroy()
+            end
+        end
+    end
+end)
+
+spawn(function() 
+    repeat
+        task.wait()
+    until game:IsLoaded()
+    repeat
+        task.wait()
+    until game.Players
+    repeat
+        task.wait()
+    until game.Players.LocalPlayer and game.Players.LocalPlayer.Team ~= nil 
+    wait(1.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.14)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>0362374399<Color=/>"):Display()
+    wait(.24)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.29)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂 <Color=/>"):Display()
+    wait(.36)
+end)
+
+spawn(function()
+    while wait() do
+        for i,v in pairs(game.Players.LocalPlayer:GetChildren()) do
+            if v.Name == "DataLoaded" or v.Name == "DataPreloaded" then
+                v:Destroy()
+            end
+        end
+    end
+end)
+
+spawn(function() 
+    repeat
+        task.wait()
+    until game:IsLoaded()
+    repeat
+        task.wait()
+    until game.Players
+    repeat
+        task.wait()
+    until game.Players.LocalPlayer and game.Players.LocalPlayer.Team ~= nil 
+    wait(1.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.5)
+    require(game.ReplicatedStorage.Notification).new("<Color=Red>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.14)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>0362374399<Color=/>"):Display()
+    wait(.24)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂<Color=/>"):Display()
+    wait(.29)
+    require(game.ReplicatedStorage.Notification).new("<Color=Yellow>MÀY BỊ LỪA RỒI THẰNG NGU 😂 <Color=/>"):Display()
+    wait(.36)
+end)
+
